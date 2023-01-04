@@ -1,3 +1,6 @@
+##Important
+The project needs a functioning api key in order to work 
+
 # AngularGoogleMapApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
